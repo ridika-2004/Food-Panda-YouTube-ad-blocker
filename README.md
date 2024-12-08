@@ -1,4 +1,4 @@
-cat <<EOF > README.md
+
 # Food Panda YouTube Ad Blocker
 
 ## Overview
